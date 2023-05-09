@@ -1,0 +1,42 @@
+
+.background-image {
+    background-image: url('https://img.freepik.com/free-photo/psychedelic-paper-shapes-with-copy-space_23-2149378246.jpg?w=1060&t=st=1683543112~exp=1683543712~hmac=bc01c01dadb730d082ede1e57ba185df82d57532182fe61406da3638f3451275');
+    background-size: cover;
+    height: 100vh;
+}
+
+.img {
+    height: 50vh;
+    width: 50vw;
+    margin-top: 50px;
+
+}
+
+.head {
+    color: #0660B6;
+    font-size: bold;
+    font-family: 'Comic Sans MS';
+    font-size: 22px;
+    text-align: center;
+}
+
+.img1 {
+    background-image: url('https://cdn.pixabay.com/photo/2020/06/04/13/22/cicle-5258733_1280.png ');
+    height: 30vh;
+    width: 60vw;
+}
+
+.lable {
+    color: #cb543f;
+    font-family: 'Comic Sans MS';
+}
+
+.input {
+    border-width: 0px;
+    border-radius: 10px;
+}
+.login-background{
+    background-image: url(https://cdn.pixabay.com/photo/2018/01/12/14/24/night-3078326_1280.jpg);
+    background-size: cover;
+    height: 100vh;
+}
